@@ -28,6 +28,9 @@ Here's a list of part links for stuff at [Arrow](https://arrow.com), where overn
 - [1N4148 Through-hole - Loose in bags](https://www.arrow.com/en/products/1n4148/on-semiconductor)
 - [1N4148 Through-hole - Strips in box](https://www.arrow.com/en/products/1n4148ta/on-semiconductor)
 
+## Schottky Diodes
+- [B5817W SOD-123](https://www.arrow.com/en/products/b5817w/good-ark-semiconductor)
+
 ## Crystals
 
 - [16 MHz 3225 12pF](https://www.arrow.com/en/products/fc3bacagi16.0-t3/fox-electronics)
@@ -44,6 +47,7 @@ Here's a list of part links for stuff at [Arrow](https://arrow.com), where overn
 ## Transistors
 
 - [MMBT3904 NPN SOT-23](https://www.arrow.com/en/products/mmbt3904215/nexperia)
+- [AO3416 N-channel MOSFET SOT-23](https://www.arrow.com/en/products/ao3416/alpha-and-omega-semiconductor)
 
 
 ## Miscellaneous
