@@ -9,6 +9,7 @@ Here's a list of part links for stuff at [Arrow](https://arrow.com), where overn
 
 ### Through-hole
 - [1/8W 470Ω Through-hole](https://www.arrow.com/en/products/cf18jt470r/stackpole-electronics)
+- [1/8W 4.7kΩ Through-hole](https://www.arrow.com/en/products/cf18jt4k70/stackpole-electronics)
 
 ### 0805
 - [1/8W 470Ω 0805 SMD](https://www.arrow.com/en/products/cr0805-jw-471elf/bourns)
@@ -28,7 +29,7 @@ Here's a list of part links for stuff at [Arrow](https://arrow.com), where overn
 - [1N4148 Through-hole - Loose in bags](https://www.arrow.com/en/products/1n4148/on-semiconductor)
 - [1N4148 Through-hole - Strips in box](https://www.arrow.com/en/products/1n4148ta/on-semiconductor)
 
-## Schottky Diodes
+### Schottky Diodes
 - [B5817W SOD-123](https://www.arrow.com/en/products/b5817w/good-ark-semiconductor)
 
 ## Crystals
@@ -49,6 +50,8 @@ Here's a list of part links for stuff at [Arrow](https://arrow.com), where overn
 - [MMBT3904 NPN SOT-23](https://www.arrow.com/en/products/mmbt3904215/nexperia)
 - [AO3416 N-channel MOSFET SOT-23](https://www.arrow.com/en/products/ao3416/alpha-and-omega-semiconductor)
 
+## Header Pins
+- [12-Pin 2.54mm pitch header pins](https://www.arrow.com/en/products/ph1-12-ua/adam-tech)
 
 ## Miscellaneous
 - [SJ5382 3M Bumpers](https://www.arrow.com/en/products/sj5382/3m)
